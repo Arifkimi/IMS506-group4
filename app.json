@@ -1,0 +1,5 @@
+{
+    "name": "Arifkimi",
+    "description": "A barebones PHP app that makes use of the Silex web framework",
+    "repository": "https://github.com/Arifkimi/IMS506-group4",
+    "addons": []
